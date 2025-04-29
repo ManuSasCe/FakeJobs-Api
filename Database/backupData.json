@@ -419,6 +419,174 @@
         "contactEmail": "contact@uxworks.com",
         "contactPhone": "555-345-6789"
       }
+    },
+    {
+      "id": "31",
+      "title": "Part-Time Sales Associate",
+      "type": "Part-Time",
+      "location": "New York, NY",
+      "description": "Join our retail team as a Part-Time Sales Associate. We are looking for a friendly individual with excellent customer service skills to assist customers and maintain the store's appearance.",
+      "salary": "$15 - $18 per hour",
+      "company": {
+        "name": "Retail Solutions Inc",
+        "description": "Retail Solutions Inc is a leading retail company with multiple locations across the United States. We offer a wide range of products and services to meet the needs of our diverse customer base.",
+        "contactEmail": "contact@retailsolutions.com",
+        "contactPhone": "555-456-7890"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Part-Time Administrative Assistant",
+      "type": "Part-Time",
+      "location": "Chicago, IL",
+      "description": "Seeking a Part-Time Administrative Assistant to support office operations, manage schedules, and assist with correspondence.",
+      "salary": "$16 - $19 per hour",
+      "company": {
+        "name": "OfficePro Services",
+        "description": "OfficePro Services provides administrative support solutions to small and medium businesses.",
+        "contactEmail": "contact@officepro.com",
+        "contactPhone": "555-567-8902"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Freelance Graphic Designer",
+      "type": "Freelance",
+      "location": "San Francisco, CA",
+      "description": "We are seeking a talented Freelance Graphic Designer to assist with various design projects. The ideal candidate should have a strong portfolio showcasing their design skills and creativity.",
+      "salary": "$30 - $40 per hour",
+      "company": {
+        "name": "Creative Designs Co",
+        "description": "Creative Designs Co is a design agency specializing in branding and visual communication.",
+        "contactEmail": "contact@creativedesigns.com",
+        "contactPhone": "555-567-8901"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Freelance Content Writer",
+      "type": "Freelance",
+      "location": "Remote",
+      "description": "Looking for a Freelance Content Writer to create engaging articles and blog posts for various clients.",
+      "salary": "$25 - $35 per hour",
+      "company": {
+        "name": "Content Creators Hub",
+        "description": "Content Creators Hub connects freelance writers with businesses in need of quality content.",
+        "contactEmail": "contact@contentcreators.com",
+        "contactPhone": "555-678-9013"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Contract Web Developer",
+      "type": "Contract",
+      "location": "Austin, TX",
+      "description": "We are looking for a Contract Web Developer to join our development team for a short-term project.",
+      "salary": "$40 - $50 per hour",
+      "company": {
+        "name": "Web Development Solutions",
+        "description": "Web Development Solutions specializes in custom website design and development.",
+        "contactEmail": "contact@webdevelopmentsolutions.com",
+        "contactPhone": "555-678-9012"
+      }
+    },
+    {
+      "id": "36",
+      "title": "Contract Marketing Specialist",
+      "type": "Contract",
+      "location": "Denver, CO",
+      "description": "Seeking a Contract Marketing Specialist for a 6-month project to develop and implement marketing campaigns.",
+      "salary": "$45 - $55 per hour",
+      "company": {
+        "name": "MarketPros LLC",
+        "description": "MarketPros LLC offers marketing consultancy services for businesses of all sizes.",
+        "contactEmail": "contact@marketpros.com",
+        "contactPhone": "555-789-0124"
+      }
+    },
+    {
+      "id": "37",
+      "title": "Temporary Data Entry Clerk",
+      "type": "Temporary",
+      "location": "Seattle, WA",
+      "description": "We are seeking a Temporary Data Entry Clerk to assist with entering data into our database.",
+      "salary": "$16 - $19 per hour",
+      "company": {
+        "name": "Data Management Services",
+        "description": "Data Management Services specializes in data entry and processing.",
+        "contactEmail": "contact@datamanagementservices.com",
+        "contactPhone": "555-789-0123"
+      }
+    },
+    {
+      "id": "38",
+      "title": "Temporary Customer Service Representative",
+      "type": "Temporary",
+      "location": "Miami, FL",
+      "description": "Looking for a Temporary Customer Service Representative to cover a 3-month period during peak season.",
+      "salary": "$17 - $20 per hour",
+      "company": {
+        "name": "CustomerFirst Solutions",
+        "description": "CustomerFirst Solutions provides customer service staffing for seasonal and temporary needs.",
+        "contactEmail": "contact@customerfirst.com",
+        "contactPhone": "555-890-1235"
+      }
+    },
+    {
+      "id": "39",
+      "title": "Intern Software Engineer",
+      "type": "Intern",
+      "location": "Los Angeles, CA",
+      "description": "Offering an internship opportunity for a Software Engineer to gain hands-on experience in software development.",
+      "salary": "$17 - $20 per hour",
+      "company": {
+        "name": "Tech Innovations Group",
+        "description": "Tech Innovations Group specializes in software development and digital solutions.",
+        "contactEmail": "contact@techinnovationsgroup.com",
+        "contactPhone": "555-890-1234"
+      }
+    },
+    {
+      "id": "40",
+      "title": "Intern Marketing Assistant",
+      "type": "Intern",
+      "location": "Boston, MA",
+      "description": "Seeking an Intern Marketing Assistant to support the marketing team with research and campaign execution.",
+      "salary": "$15 - $18 per hour",
+      "company": {
+        "name": "Bright Future Marketing",
+        "description": "Bright Future Marketing is a full-service marketing agency focused on innovative campaigns.",
+        "contactEmail": "contact@brightfuture.com",
+        "contactPhone": "555-901-2346"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Remote Customer Support",
+      "type": "Remote",
+      "location": "Anywhere",
+      "description": "Seeking a Remote Customer Support representative to assist customers with inquiries.",
+      "salary": "$18 - $22 per hour",
+      "company": {
+        "name": "Global Support Solutions",
+        "description": "Global Support Solutions provides remote support services worldwide.",
+        "contactEmail": "contact@globalsupportsolutions.com",
+        "contactPhone": "555-901-2345"
+      }
+    },
+    {
+      "id": "42",
+      "title": "Remote Technical Writer",
+      "type": "Remote",
+      "location": "Anywhere",
+      "description": "Looking for a Remote Technical Writer to create manuals and documentation for software products.",
+      "salary": "$25 - $30 per hour",
+      "company": {
+        "name": "TechDocs Worldwide",
+        "description": "TechDocs Worldwide specializes in technical documentation and user manuals.",
+        "contactEmail": "contact@techdocs.com",
+        "contactPhone": "555-012-3457"
+      }
     }
   ]
 }
